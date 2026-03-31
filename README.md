@@ -2,7 +2,7 @@
 
 > **🏆 Global Top 20 Finalist (out of 6,000+ teams) in the Google GenAI Capstone Project.**
 
-[cite_start]ChemSimGuide is an intelligent, conversational AI assistant built to streamline the setup of complex chemical simulations. [cite: 1] [cite_start]By leveraging Google's Gemini API and the LangGraph framework, it acts as an interactive expert guide for the powerful, open-source Cantera software library. [cite: 1]
+[cite_start]ChemSimGuide is an intelligent, conversational AI assistant built to streamline the setup of complex chemical simulations. [cite: 1] [cite_start]By leveraging Google's Gemini API and the LangGraph framework, it acts as an interactive expert guide for the powerful, open-source Cantera software library.
 
 ## 🎯 The Problem
 
